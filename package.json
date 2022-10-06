@@ -1,4 +1,5 @@
 {
+  "homepage": "https://devRony1710.github.io/avocado-app",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
