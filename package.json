@@ -1,4 +1,9 @@
 {
+  "name": "platzi-dom",
+  "version": "0.1.0",
+  "description": "Curso de Manipulacion del DOM",
+  "author": "Rony Antolinez",
+  "license": "MIT",
   "homepage": "https://devRony1710.github.io/avocado-app",
   "scripts": {
     "start": "snowpack dev",
